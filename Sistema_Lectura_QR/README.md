@@ -2,7 +2,6 @@
 
 Este proyecto contiene un script en Python (`Prueba1Webservice.py`) que actúa como cliente para un módulo ESP32 equipado con cámara. El sistema captura imágenes enviadas por el ESP32, procesa las imágenes para detectar códigos QR y envía la información decodificada de vuelta al microcontrolador.
 
-## Arquitectura del Sistema
 
 La arquitectura está basada en un modelo **Cliente-Servidor** a través de red local (Wi-Fi), distribuido en dos componentes principales:
 
